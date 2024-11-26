@@ -1,0 +1,61 @@
+20240408	00:02:48	7fa9c651-c7dd-43dd-ad14-ea1ffe1a92da	ForbiddenError: invalid csrf token
+20240408	00:10:21	e9bdf495-e4fd-4942-8698-8c2123f49a77	ForbiddenError: invalid csrf token
+20240408	00:12:56	7cc887f3-77b1-43ce-ad11-b6d852149c8e	ForbiddenError: invalid csrf token
+20240408	00:13:12	67ff42c0-a397-4e8a-8ae8-37952c052184	ForbiddenError: invalid csrf token
+20240408	00:14:34	86d02712-7613-4e00-8832-77f3b6aa48b2	ForbiddenError: invalid csrf token
+20240408	00:15:10	91216952-64d4-46af-9179-a63d9bf7b199	ForbiddenError: invalid csrf token
+20240408	00:22:36	ed9875b6-2aa3-48c2-8271-7c2f0054fcef	ForbiddenError: invalid csrf token
+20240408	00:24:17	c4465cd2-b2b3-40f2-a264-b2ca7fab017e	ForbiddenError: invalid csrf token
+20240408	00:24:29	8626db59-9784-44ca-a775-e1f5f703b6ee	ForbiddenError: invalid csrf token
+20240408	00:27:55	59c709d9-ec0e-4b96-b3d7-db9cf183c866	ForbiddenError: invalid csrf token
+20240408	11:54:57	58b95099-5a50-4bca-ad64-8ea0e9fbc32f	ReferenceError: admin is not defined
+20240408	11:57:23	e507365c-7a22-4450-bb15-ea8536a8ec00	ReferenceError: admin is not defined
+20240408	12:03:04	e0650f80-ccc7-411c-a8c3-5bb8f63ada03	ReferenceError: admin is not defined
+20240408	12:03:51	380ad19f-d61d-4f44-a0f8-178295971b3d	ReferenceError: admin is not defined
+20240408	13:48:21	a743bfae-2a6a-45fb-b88e-be797e0265d5	ReferenceError: admin is not defined
+20240408	13:50:45	ece4bbc4-26e4-4033-8c27-07a0bbb09f35	ReferenceError: admin is not defined
+20240408	13:51:18	49b2f816-d9bd-4966-acf1-89c0b0e21ac4	ReferenceError: admin is not defined
+20240408	14:01:58	52b55753-89e8-4c78-b08e-6711ec0fd99a	ReferenceError: admin is not defined
+20240408	14:02:37	693efaf8-fa14-4585-b778-72f1262328dd	ReferenceError: admin is not defined
+20240408	22:35:03	c566422c-109c-4eef-93fa-11f14bc2ed3a	Error: ENOENT: no such file or directory, stat 'C:\views\patient.html'
+20240408	22:35:19	c7d4582e-bd59-4bb2-b949-f8032a7ce1e2	Error: ENOENT: no such file or directory, stat 'C:\views\patient.html'
+20240408	22:56:43	bbdbca32-7ce7-44c3-be7c-062e063ab26c	Error: ENOENT: no such file or directory, stat 'C:\Users\Shreyas Naik\Desktop\Mini-Project\routes\views\patient.html'
+20240408	22:56:51	f77145ba-6e8c-44e8-af7f-bb3b12303fac	Error: ENOENT: no such file or directory, stat 'C:\Users\Shreyas Naik\Desktop\Mini-Project\routes\views\patient.html'
+20240408	22:58:26	faf45391-93f6-47fc-b88d-c34a461503a9	Error: ENOENT: no such file or directory, stat 'C:\Users\Shreyas Naik\Desktop\Mini-Project\routes\views\patient.html'
+20240408	22:58:38	eb6273df-9022-4b42-bb79-2b87b56346a2	Error: ENOENT: no such file or directory, stat 'C:\Users\Shreyas Naik\Desktop\Mini-Project\routes\views\patient.html'
+20240427	01:01:12	13f09f19-e592-4bf6-b895-9702f0166f42	Error: ENOENT: no such file or directory, stat 'C:\Users\Shreyas Naik\Desktop\Final\Server\views\index.html'
+20240427	01:01:13	b9c2ba97-0f16-492d-8b7a-8d64dd9fdaed	Error: ENOENT: no such file or directory, stat 'C:\Users\Shreyas Naik\Desktop\Final\Server\views\index.html'
+20240427	01:01:19	4f70b6d4-5a49-40a9-be64-54af3ae58f66	Error: ENOENT: no such file or directory, stat 'C:\Users\Shreyas Naik\Desktop\Final\Server\views\404.html'
+20240427	17:24:10	68f0d864-3810-4117-b3a4-360277e70842	Error: Not allowed by CORS
+20240427	17:28:28	faa9a312-3ad1-41d9-85e7-e0a3a0f8d067	Error: Not allowed by CORS
+20240427	17:30:18	ed853440-6f67-4e5a-b19c-63c8daf6da77	Error: Not allowed by CORS
+20240427	17:30:51	087c514e-2cc3-4f8e-a701-5fad40e5e4fe	Error: Not allowed by CORS
+20240427	17:35:06	c3fbd4ea-ab2f-400b-b84a-1ff2432c4396	Error: Not allowed by CORS
+20240427	18:00:59	b8b5de6e-55ed-4f3d-8f19-48f16afc7340	Error: Not allowed by CORS
+20240427	18:02:28	6c932eda-bd2e-463b-a3fa-51bb8917e9b9	Error: Not allowed by CORS
+20240427	18:03:32	8fe51f73-bf91-436b-9379-3c39b2b504ea	Error: Not allowed by CORS
+20240427	18:06:05	2e46f603-517f-45fb-9566-7ea85a363f6c	Error: Not allowed by CORS
+20240427	18:08:02	c406ff4f-72f6-4971-9db8-43c98708536a	Error: Not allowed by CORS
+20240427	18:28:02	bb77f635-e15e-41d8-b8e6-d4bf11ccd4ad	Error: Not allowed by CORS
+20240427	18:30:08	eed66f8c-b3af-4f81-aaa8-2763e244e552	Error: Not allowed by CORS
+20240427	18:31:11	8e9c4d6c-13ff-4210-9c08-b3cfdafdfeb8	Error: Not allowed by CORS
+20240427	18:32:49	49b922cb-127d-4e75-8825-8da7d7c005ce	Error: Not allowed by CORS
+20240427	18:43:07	169ee8a1-9dfe-4fcc-b711-60028caefab5	Error: Not allowed by CORS
+20240427	18:50:35	1f8a75ed-6b45-4550-8550-c76ceb2b10b1	Error: Not allowed by CORS
+20240427	18:51:51	eb8c28ff-2bf9-4d82-9275-50d958c23e97	Error: Not allowed by CORS
+20240427	18:53:11	6026502a-ef3c-412f-a0aa-af705ad92531	Error: Not allowed by CORS
+20240427	19:30:16	d2d9f8cc-ad5a-409d-a9fd-606c317ea030	Error: Not allowed by CORS
+20240427	19:31:39	84884617-51a6-4760-bb92-e0e088b727b8	Error: Not allowed by CORS
+20240427	19:33:39	1fd19fff-ca68-4d63-8bb0-ea9bcbea3c97	Error: Not allowed by CORS
+20240427	19:34:47	edbfc130-73b8-459f-8428-be4f2e59dcc9	Error: Not allowed by CORS
+20240427	19:35:41	198acb2f-e8c0-454e-afc8-412520463dd5	Error: Not allowed by CORS
+20240427	19:36:57	09081c67-0bba-4b37-a8a7-c0c920802972	Error: Not allowed by CORS
+20240427	19:39:24	3685c604-2fd7-4952-8df8-a0511006f123	Error: Not allowed by CORS
+20240427	19:46:00	f3189250-6eea-43fc-9ef5-262044fc6304	Error: Not allowed by CORS
+20240427	19:47:55	d2fc6d33-1983-44d1-9897-592ba2926003	Error: Not allowed by CORS
+20240427	20:31:30	4e5f9155-1bf8-4ca5-a979-56942caf37da	Error: Not allowed by CORS
+20240427	20:33:11	be054d52-bd7b-4f7d-9f78-e315da7ca403	Error: Not allowed by CORS
+20240427	20:35:31	c016f228-7b66-4fd6-bf60-95146d3e5380	Error: Not allowed by CORS
+20240427	20:41:25	0b424c80-13b1-43b8-82a8-88a1df7e4e26	TypeError: userCredential.user.getIdToken is not a function
+20240427	20:42:13	0a91c9c9-f82d-4acd-9a7d-20b22a38dc03	TypeError: userCredential.user.getIdToken is not a function
+20240427	20:44:03	d36744f2-a1c2-4343-a5bb-eab5972b808b	TypeError: userCredential.getIdToken is not a function

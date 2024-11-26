@@ -1,0 +1,18 @@
+.Image img{
+    height: 38px;
+    width: 45px;
+    border: 1px solid orange;
+    border-radius: 50%;
+} 
+.Image {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.mar{
+    margin-left: -96px;
+}
+.buto{
+    outline: none;;
+}
